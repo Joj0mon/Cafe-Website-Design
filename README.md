@@ -1,2 +1,2 @@
-# blog-cms
-new WordPress files
+# Cafe-Website-Design
+Cafe website design project
